@@ -1,4 +1,8 @@
-## Hi there 👋
+## Heya! I'm Astro, I generally specialize in GTA Modding and/or C#
+- 🔭 I’m currently working on making whatever sparks my fancy, usually involving GTA Modding
+- 🌱 I’m currently learning anything I find interesting, usually stuff about .NET
+- 📫 How to reach me: Discord, astro.1181
+- ⚡ I've been coding for 2 years now
 
 <!--
 **AstroBurgers/AstroBurgers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
