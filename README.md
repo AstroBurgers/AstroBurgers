@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making whatever sparks my fancy, usually involving GTA Modding<br>🌱 I’m currently learning anything I find interesting, usually stuff about .NET<br>📫 How to reach me: Discord, astro.1181<br>⚡ I've been coding for 2
+🔭 I’m currently working on making whatever sparks my fancy, usually involving GTA Modding<br>🌱 I’m currently learning anything I find interesting, usually stuff about .NET<br>📫 How to reach me: Discord, astro.1181<br>⚡ I've been coding for 2 years
 
 
 ## 🌐 Socials:
