@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on making whatever sparks my fancy, usually involving GTA Modding<br>🌱 I’m currently learning anything I find interesting, usually stuff about .NET<br>📫 How to reach me: Discord, astro.1181<br>⚡ I've been coding for 2 years
-
+> **Powered by duct tape and spite**. A sleep-deprived coder, modder, and occasional philosopher  
+> Building tools and mods fueled by caffeine, metal, and pure willpower.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/trWvfRnYMN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:astroburgers1@gmail.com) 
